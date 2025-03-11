@@ -27,7 +27,7 @@ iPeek is a Python script that allows users to search for Instagram accounts and 
 ## Usage
 
 1. Clone this repository or download the script.
-2. Install the required libraries with `pip install -r requirements.txt`.
+2. Fill out the constants/id.py file with a dummy account data.
 3. Run the script with `python main.py`.
 4. Follow the prompts to login to Instagram or search for an account.
 
